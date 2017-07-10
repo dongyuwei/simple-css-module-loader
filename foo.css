@@ -1,0 +1,11 @@
+.foo {
+    color: green;
+}
+
+.bar {
+    color: red;
+}
+
+.foo .bar {
+    display: block;
+}
